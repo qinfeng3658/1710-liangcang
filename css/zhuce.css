@@ -7,7 +7,7 @@ input{
 	background: #cbcbcb;
 }
 .zhuce{
-	width: 1000px; height: 684px; margin: 0 auto;
+	width: 1000px; height: 560px; margin: 0 auto;
 }
 .logo{
 	width: 226px; height: 140px; margin: 60px auto 0;
@@ -88,4 +88,15 @@ input{
 	float: right; width: 56px; height: 23px;
 	border-bottom: 1px solid white;
 	font-size: 14px; color: white;
+}
+.selettl{
+	width: 112px; height: 40px;
+	position: fixed; bottom: 40px; right: 40px;
+}
+.selettl a {
+	float: left; width: 112px; height: 40px;
+	line-height: 40px; font-size: 12px; color: white;
+}
+.selettl a img{
+	width: 40px; margin-left: 20px; float: right;
 }
